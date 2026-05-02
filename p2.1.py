@@ -1,0 +1,11 @@
+a=[]
+print(a)
+print(type(a))
+b=[10,20,30]
+print(b)
+print(type(b))
+x=list()
+print(x)
+print(type(x))
+y=list('softpro')
+print(y)

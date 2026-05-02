@@ -1,0 +1,11 @@
+import mycalc
+a=eval(input("enter the first number:"))
+b=eval(input("enter the second number:"))
+c=mycalc.add(a,b)
+d=mycalc.sub(a,b)
+e=mycalc.mul(a,b)
+f=mycalc.div(a,b)
+print("sum is",c)
+print("substraction is",d)
+print("multiplication is",e)
+print("division is",f)
